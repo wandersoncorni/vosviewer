@@ -22080,6 +22080,10 @@
     },
     "info": {
         "title": "Rede de colaboração - Analise 5",
-        "description": "Rede de coautoria gerada a partir dos resultados extraídos da análise."
+        "description": "Rede de coautoria gerada a partir dos resultados extraídos da análise.",
+        "urls": {
+            "json_url": "https://wandersoncorni.github.io/vosviewer/colaboration.json",
+            "viewer_url": "https://app.vosviewer.com/?json=https%3A%2F%2Fwandersoncorni.github.io%2Fvosviewer%2Fcolaboration.json&simple_ui=true"
+        }
     }
 }
